@@ -29,10 +29,10 @@ To conduct this analysis, the following datasets have been identified:
     - Reference: Statistics Canada. (2024).[[2]](#2)
 3.	Nova Scotia Association of REALTORS® (NSAR) Housing Market Reports.
     - Context: This dataset provides localized real estate market trends, including median home prices, housing sales, and affordability indices for New Glasgow and surrounding areas.
-   - Reference: Nova Scotia Association of REALTORS®. (2024).[[5]](#5)
+    - Reference: Nova Scotia Association of REALTORS®. (2024).[[5]](#5)
 4. Census Profile, 2016 Census – New Glasgow, Town [Census subdivision], Nova Scotia.
-   -Context: Detailed data on labor force status, employment rates, unemployment rates, class of worker, occupation, and industry classifications specific to New Glasgow.
-   -Reference: Statistics Canada. (2017).[[6]](#6)
+   - Context: Detailed data on labor force status, employment rates, unemployment rates, class of worker, occupation, and industry classifications specific to New Glasgow.
+   - Reference: Statistics Canada. (2017).[[6]](#6)
 
 
 
