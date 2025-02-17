@@ -1,7 +1,7 @@
 # Housing Affordability in New Glasgow, Nova Scotia
 *A Data-Driven Analysis*
 
-*By: Kola Oguntade*
+*By: Kolawole Amos Oguntade*
 # Executive Summary
 Housing affordability has become a significant issue in New Glasgow, Nova Scotia reflecting broader challenges seen across Canada. Rising home prices, stagnant wages, and limited housing availability have made it increasingly difficult for residents to secure affordable housing. This project aims to analyze the housing affordability crisis in New Glasgow using data-driven insights. The study will explore affordability trends, evaluate policy effectiveness, and provide recommendations for improving housing accessibility.
 
