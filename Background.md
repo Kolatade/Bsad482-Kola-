@@ -12,11 +12,10 @@ This study aims to
 
 Key performance indicators (KPIs) include 
 1. The rent-to-income ratio
-2. Vacancy and Housing Supply
-3. Homeownership Rates.
-4. Median home price trends.
-5. Housing supply and demand.
-6. Homelessness rates.
+2. Homeownership Rates.
+3. Median home price trends.
+4. Housing supply and demand.
+5. Homelessness rates.
    
 The findings will be presented through exploratory data analysis (EDA), predictive modeling, and data visualization techniques.
 
