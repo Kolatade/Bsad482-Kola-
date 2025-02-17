@@ -42,7 +42,7 @@ To conduct this analysis, the following datasets have been identified:
 
 <a id="2">[2]</a> Statistics Canada. (2024). Census profile: Housing and income data [Data set]. https://www.statcan.gc.ca.
 
-<a id="3">[3]</a>Town of New Glasgow. (2023). Housing needs assessment report. https://www.newglasgow.ca/reports/858-town-of-new-glasgow- housing-needs-assessment-report-final.html.
+<a id="3">[3]</a>Town of New Glasgow. (2023). Housing needs assessment report. https://www.newglasgow.ca/reports/858-town-of-new-glasgow-housing-needs-assessment-report-final.html.
 
 <a id="4">[4]</a>Canada Mortgage and Housing Corporation. (2024). Annual housing market outlook. https://www.cmhc-schl.gc.ca
 
