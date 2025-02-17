@@ -48,5 +48,5 @@ To conduct this analysis, the following datasets have been identified:
 
 <a id="5">[5]</a>Nova Scotia Association of REALTORS®. (2024). Real estate market statistics. https://www.nsar-mls.ca
 
-<a id="6">[6]</a>Statistics Canada. (2017). Census Profile, 2016 Census – New Glasgow, Town [Census subdivision], Nova Scotia. Retrieved from https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?B1=Labour&Code1=1212014&Code2=12&Geo1=CSD&Geo2=PR&Lang=E
+<a id="6">[6]</a>Statistics Canada. (2017). Census Profile, 2016 Census – New Glasgow, Town [Census subdivision], Nova Scotia. https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?B1=Labour&Code1=1212014&Code2=12&Geo1=CSD&Geo2=PR&Lang=E
 
