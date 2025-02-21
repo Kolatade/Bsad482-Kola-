@@ -28,7 +28,7 @@ To conduct this analysis, the following datasets have been identified:
     - Context: This dataset includes demographic and housing-related information from the latest Canadian census, offering insights into homeownership rates, income distribution, and housing demand in New Glasgow.
     - Reference: Statistics Canada. (2024).[[2]](#2)
 3.	New Glasgow Housing Market. Affordability Reference Data.
-    - Context: This dataset provides localized real estate market trends, including median home prices, housing sales, and affordability indices for New Glasgow and surrounding areas.
+    - Context: This dataset aggregates raw data on property values, rental rates, and homeownership trends to support informed research and policy-making in New Glasgow, Nova Scotia.
     - Reference: New Glasgow Housing Market.(2025).[[4]](#4)
 4. Census Profile, 2016 Census – New Glasgow, Town [Census subdivision], Nova Scotia.
    - Context: Detailed data on labor force status, employment rates, unemployment rates, class of worker, occupation, and industry classifications specific to New Glasgow.
