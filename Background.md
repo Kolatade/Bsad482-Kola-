@@ -39,13 +39,7 @@ To conduct this analysis, the following datasets have been identified:
 ## Reference:
 <a id="1">[1]</a> Canada Mortgage and Housing Corporation. (2024). Housing market information portal. https://www.cmhc-schl.gc.ca.
 
-<a id="2">[2]</a> Nova Scotia Government. (2024). Municipal Fiscal Statistics - Consolidated Revenues and Expenses by Municipality. https://data.novascotia.ca/dataset/municipal-fiscal-statistics-consolidated-revenues-expenses-by-municipality
-
-
-
-
-
-
+<a id="2">[2]</a> Nova Scotia Government. (2024). Municipal Fiscal Statistics - Consolidated Revenues and Expenses by Municipality. https://data.novascotia.ca/Municipalities/Municipal-Fiscal-Statistics-Financial-Condition-In/44ah-ugrd/about_data
 
 
 <a id="3">[3]</a>Town of New Glasgow. (2023). Housing needs assessment report. https://www.newglasgow.ca/reports/858-town-of-new-glasgow-housing-needs-assessment-report-final.html.
