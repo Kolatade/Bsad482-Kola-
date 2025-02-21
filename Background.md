@@ -23,16 +23,16 @@ The findings will be presented through exploratory data analysis (EDA), predicti
 To conduct this analysis, the following datasets have been identified:
 1.	Canada Mortgage and Housing Corporation (CMHC) Housing Market Data.
     - Context: This dataset provides detailed information on rental prices, vacancy rates, housing starts, and affordability trends across various regions, including Nova Scotia.
-    - Reference: Canada Mortgage and Housing Corporation. (2024).[[4]](#4)
+    - Reference: Canada Mortgage and Housing Corporation. (2024).[[1]](#1)
 2.	Statistics Canada Census Housing Data.
     - Context: This dataset includes demographic and housing-related information from the latest Canadian census, offering insights into homeownership rates, income distribution, and housing demand in New Glasgow.
     - Reference: Statistics Canada. (2024).[[2]](#2)
-3.	Nova Scotia Association of REALTORS® (NSAR) Housing Market Reports.
+3.	New Glasgow Housing Market. Affordability Reference Data.
     - Context: This dataset provides localized real estate market trends, including median home prices, housing sales, and affordability indices for New Glasgow and surrounding areas.
-    - Reference: Nova Scotia Association of REALTORS®. (2024).[[5]](#5)
+    - Reference: New Glasgow Housing Market.(2025).[[4]](#4)
 4. Census Profile, 2016 Census – New Glasgow, Town [Census subdivision], Nova Scotia.
    - Context: Detailed data on labor force status, employment rates, unemployment rates, class of worker, occupation, and industry classifications specific to New Glasgow.
-   - Reference: Statistics Canada. (2017).[[6]](#6)
+   - Reference: Statistics Canada. (2017).[[5]](#5)
 
 
 
@@ -43,9 +43,7 @@ To conduct this analysis, the following datasets have been identified:
 
 <a id="3">[3]</a>Town of New Glasgow. (2023). Housing needs assessment report. https://www.newglasgow.ca/reports/858-town-of-new-glasgow-housing-needs-assessment-report-final.html.
 
-<a id="4">[4]</a>Canada Mortgage and Housing Corporation. (2024). Annual housing market outlook. https://www.cmhc-schl.gc.ca
+<a id="4">[4]</a>New Glasgow Housing Market.(2025). Affordability Reference Data. https://data.novascotia.ca/Community-Services/Public-Housing-Units-Nova-Scotia-Families-Total-by/qryv-qph2
 
-<a id="5">[5]</a>Nova Scotia Association of REALTORS®. (2024). Real estate market statistics. https://www.nsar-mls.ca
-
-<a id="6">[6]</a>Statistics Canada. (2017). Census Profile, 2016 Census – New Glasgow, Town [Census subdivision], Nova Scotia. https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?B1=Labour&Code1=1212014&Code2=12&Geo1=CSD&Geo2=PR&Lang=E
+<a id="5">[5]</a>Statistics Canada. (2017). Census Profile, 2016 Census – New Glasgow, Town [Census subdivision], Nova Scotia. https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?B1=Labour&Code1=1212014&Code2=12&Geo1=CSD&Geo2=PR&Lang=E
 
