@@ -7,7 +7,7 @@ The housing affordability crisis in New Glasgow has far-reaching implications. M
 # Research Objective
 This study aims to 
 1. Analyze housing affordability trends in New Glasgow [[1]](#1)
-2. Assess disparities among different socioeconomic groups, leveraging Statistics Canada Census Data [[2]](#2) to examine income distribution, employment status, age demographics, and household structures to determine how affordability varies across different population segments.
+2. Assess disparities among different socioeconomic groups, leveraging Statistics Canada Census Data [[5]](#5) to examine income distribution, employment status, age demographics, and household structures to determine how affordability varies across different population segments.
 3. Evaluate the effectiveness of current housing policies using quantifiable proxy indicators instead of subjective assessments [[3]](#3)
 
 Key performance indicators (KPIs) include 
@@ -24,9 +24,9 @@ To conduct this analysis, the following datasets have been identified:
 1.	Canada Mortgage and Housing Corporation (CMHC) Housing Market Data.
     - Context: This dataset provides detailed information on rental prices, vacancy rates, housing starts, and affordability trends across various regions, including Nova Scotia.
     - Reference: Canada Mortgage and Housing Corporation. (2024).[[1]](#1)
-2.	Statistics Canada Census Housing Data.
-    - Context: This dataset includes demographic and housing-related information from the latest Canadian census, offering insights into homeownership rates, income distribution, and housing demand in New Glasgow.
-    - Reference: Statistics Canada. (2024).[[2]](#2)
+2.	Nova Scotia Government. Municipal Fiscal Statistics.
+    - Context: This dataset provides a concise overview of municipal financial performance in New Glasgow by consolidating revenue and expense data, facilitating comparative fiscal analysis and decision-making.
+    - Reference: Municipal Fiscal Statistics (2024). [[2]](#2)
 3.	New Glasgow Housing Market. Affordability Reference Data.
     - Context: This dataset aggregates raw data on property values, rental rates, and homeownership trends to support informed research and policy-making in New Glasgow, Nova Scotia.
     - Reference: New Glasgow Housing Market.(2025).[[4]](#4)
@@ -39,7 +39,14 @@ To conduct this analysis, the following datasets have been identified:
 ## Reference:
 <a id="1">[1]</a> Canada Mortgage and Housing Corporation. (2024). Housing market information portal. https://www.cmhc-schl.gc.ca.
 
-<a id="2">[2]</a> Statistics Canada. (2024). Census profile: Housing and income data [Data set]. https://www.statcan.gc.ca.
+<a id="2">[2]</a> Nova Scotia Government. (2024). Municipal Fiscal Statistics - Consolidated Revenues and Expenses by Municipality. https://data.novascotia.ca/dataset/municipal-fiscal-statistics-consolidated-revenues-expenses-by-municipality
+
+
+
+
+
+
+
 
 <a id="3">[3]</a>Town of New Glasgow. (2023). Housing needs assessment report. https://www.newglasgow.ca/reports/858-town-of-new-glasgow-housing-needs-assessment-report-final.html.
 
