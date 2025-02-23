@@ -11,12 +11,12 @@ This study aims to
 3. Evaluate the effectiveness of government interventions in the housing market, including investments in public housing and affordability programs.
 
 Key performance indicators (KPIs) include 
-1. Property price
-2. Rent-to-Income Ratio
+1. Property Price Trends
+2. Rental Affordability Index
 3. Vacancy Rate
 4. Housing Supply Growth Rate
-5. Rental affordability
-   
+5. Government Housing Support Impact
+
 The findings will be presented through exploratory data analysis (EDA), predictive modeling, and data visualization techniques.
 
 # Datasets
