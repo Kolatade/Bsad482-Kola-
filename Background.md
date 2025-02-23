@@ -33,13 +33,13 @@ To conduct this analysis, the following datasets have been identified:
 - Context: Provides data on the number, location, and management of senior public housing units in Nova Scotia. It is essential for analyzing housing availability and demand for seniors.
 - Reference: Nova Scotia Government.[[1]](#1)
 
-2. Municipal Fiscal Statistics
+2. Municipal Fiscal Statistics.
 - Context: Offers insights into government spending and fiscal policies affecting senior housing programs.
 - Reference: Nova Scotia Government.[[2]](#2)
 
-3. CMHC Rental Market Data
+3. Public Housing Units - Nova Scotia Families.
 - Context: Tracks rental market trends to compare public and private senior housing affordability.
-- Reference: Canada Mortgage and Housing Corporation. (2024). CMHC Rental Market Data.[[3]](#3)
+- Reference: Government of Nova Scotia.[[3]](#3)
 
 
 ## Reference:
@@ -48,5 +48,4 @@ To conduct this analysis, the following datasets have been identified:
 
 <a id="2">[2]</a> Nova Scotia Government. (2024). Municipal Fiscal Statistics - Consolidated Revenues and Expenses by Municipality. Nova Scotia Open Data. https://data.novascotia.ca/Municipalities/Municipal-Fiscal-Statistics-Consolidated-Revenues-/shcq-4v93
 
-<a id="3">[3]</a> Canada Mortgage and Housing Corporation. (2024). CMHC Rental Market Data. CMHC. https://www03.cmhc-schl.gc.ca/hmip-pimh/en#TableMapChart/0480/3/Nova%20Scotia
-
+<a id="3">[3]</a> Government of Nova Scotia. (2025). Public Housing Units - Nova Scotia Families. Open Government Portal. https://open.canada.ca/data/en/dataset/9f74456e-68a8-cead-56dc-8e7ca41954c7/resource/0fc3d14f-52d4-4d55-aa78-947ab9a366a6
