@@ -7,8 +7,8 @@ The housing affordability crisis in New Glasgow has far-reaching implications. M
 # Research Objective
 This study aims to 
 1. Analyze housing affordability trends in New Glasgow by examining property prices, rental costs, and vacancy rates.
-2. Assess housing supply and availability using data on new housing developments and municipal fiscal reports.
-3. Evaluate the impact of government housing programs by analyzing municipal fiscal data and affordability initiatives.
+2. Assess housing rental affordability trends based on property prices and municipal fiscal conditions.
+3. Evaluate the effectiveness of government interventions in the housing market, including investments in public housing and affordability programs.
 
 Key performance indicators (KPIs) include 
 1. Property price
