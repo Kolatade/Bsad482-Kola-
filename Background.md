@@ -17,27 +17,36 @@ This study aims to
 
 
 Key performance indicators (KPIs) include 
-1. Property Price Trends
-2. Rental Affordability Index
-3. Vacancy Rate
-4. Housing Supply Growth Rate
-5. Government Housing Support Impact
+1.	Public Senior Housing Availability
+2.	Waitlist & Vacancy Rate
+3.	Rent Affordability Index
+4.	Government Housing Support Impact
+5.	Housing Quality & Accessibility Index
+
 
 The findings will be presented through exploratory data analysis (EDA), predictive modeling, and data visualization techniques.
 
 # Datasets
 To conduct this analysis, the following datasets have been identified:
 
-1.	Public Housing Units - Nova Scotia Seniors. 
-    - Context: This dataset provides a concise overview of municipal financial performance in New Glasgow by consolidating revenue and expense data, facilitating comparative fiscal analysis and decision-making.
-    - Reference: Public Housing Units. [[1]](#1)
-2.	New Glasgow Housing Market. Affordability Reference Data.
-    - Context: This dataset aggregates raw data on property values, rental rates, and homeownership trends to support informed research and policy-making in New Glasgow, Nova Scotia.
-    - Reference: New Glasgow Housing Market.(2025).[[2]](#2)
+1. Public Housing Units - Nova Scotia Seniors Dataset
+- Context: Provides data on the number, location, and management of senior public housing units in Nova Scotia. It is essential for analyzing housing availability and demand for seniors.
+- Reference: Nova Scotia Government.[[1]](#1)
+
+2. Municipal Fiscal Statistics
+- Context: Offers insights into government spending and fiscal policies affecting senior housing programs.
+- Reference: Nova Scotia Government.[[2]](#2)
+
+3. CMHC Rental Market Data
+- Context: Tracks rental market trends to compare public and private senior housing affordability.
+- Reference: Canada Mortgage and Housing Corporation. (2024). CMHC Rental Market Data.[[3]](#3)
 
 
 ## Reference:
 
-<a id="1">[1]</a> Public Housing Units - Nova Scotia Seniors. https://data.urbandatacentre.ca/en/catalogue/gov-canada-15b9b8dc-7d31-fb4a-caf7-14127032f2f8
+<a id="1">[1]</a> Nova Scotia Government. (2024). Public Housing Units - Nova Scotia Seniors Dataset. Nova Scotia Open Data. https://data.novascotia.ca/Community-Services/Public-Housing-Units-Nova-Scotia-Seniors/2d4m-9e6x
 
-<a id="2">[2]</a>New Glasgow Housing Market.(2025). Affordability Reference Data. https://data.novascotia.ca/Community-Services/Public-Housing-Units-Nova-Scotia-Families-Total-by/qryv-qph2
+<a id="2">[2]</a> Nova Scotia Government. (2024). Municipal Fiscal Statistics - Consolidated Revenues and Expenses by Municipality. Nova Scotia Open Data. https://data.novascotia.ca/Municipalities/Municipal-Fiscal-Statistics-Consolidated-Revenues-/shcq-4v93
+
+<a id="3">[3]</a> Canada Mortgage and Housing Corporation. (2024). CMHC Rental Market Data. CMHC. https://www03.cmhc-schl.gc.ca/hmip-pimh/en#TableMapChart/0480/3/Nova%20Scotia
+
