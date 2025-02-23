@@ -22,9 +22,9 @@ The findings will be presented through exploratory data analysis (EDA), predicti
 # Datasets
 To conduct this analysis, the following datasets have been identified:
 
-1.	Nova Scotia Government. Municipal Fiscal Statistics.
+1.	Public Housing Units - Nova Scotia Seniors. 
     - Context: This dataset provides a concise overview of municipal financial performance in New Glasgow by consolidating revenue and expense data, facilitating comparative fiscal analysis and decision-making.
-    - Reference: Municipal Fiscal Statistics (2024). [[1]](#1)
+    - Reference: Public Housing Units. [[1]](#1)
 2.	New Glasgow Housing Market. Affordability Reference Data.
     - Context: This dataset aggregates raw data on property values, rental rates, and homeownership trends to support informed research and policy-making in New Glasgow, Nova Scotia.
     - Reference: New Glasgow Housing Market.(2025).[[2]](#2)
@@ -32,6 +32,6 @@ To conduct this analysis, the following datasets have been identified:
 
 ## Reference:
 
-<a id="1">[1]</a> Nova Scotia Government. (2024). Municipal Fiscal Statistics - Consolidated Revenues and Expenses by Municipality. https://data.novascotia.ca/Municipalities/Municipal-Fiscal-Statistics-Financial-Condition-In/44ah-ugrd/about_data
+<a id="1">[1]</a> Public Housing Units - Nova Scotia Seniors. https://data.urbandatacentre.ca/en/catalogue/gov-canada-15b9b8dc-7d31-fb4a-caf7-14127032f2f8
 
 <a id="2">[2]</a>New Glasgow Housing Market.(2025). Affordability Reference Data. https://data.novascotia.ca/Community-Services/Public-Housing-Units-Nova-Scotia-Families-Total-by/qryv-qph2
