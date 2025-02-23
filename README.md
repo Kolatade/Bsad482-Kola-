@@ -9,13 +9,13 @@ Housing affordability has become a significant issue in New Glasgow, Nova Scotia
 
 # Key Performance Indicators (KPIs)
 To assess housing affordability in New Glasgow, the following five key performance indicators (KPIs) will be analyzed:
-1. Price-to-Income Ratio
-- how affordable homeownership is by comparing housing costs to estimated income levels.
-2. Rent-to-Income Ratio
-- Assesses rental affordability by comparing rental prices to estimated incomes.
+1. Property Price Trends
+- Tracks changes in home prices over time to assess affordability trends.
+2. Rental Affordability Index
+- Assesses how affordable rental housing is based on market trends.
 3. Vacancy Rate
-- Indicates the availability of rental housing. A higher vacancy rate suggests better affordability due to less demand pressure.
+- Measures rental availability. A higher vacancy rate suggests better affordability.
 4. Housing Supply Growth Rate
-- Tracks whether housing supply is growing to meet demand.
-5. Homeownership Rate
-- Measures how accessible homeownership is for residents.
+- Tracks the rate of new housing developments to see if supply meets demand.
+5. Government Housing Support Impact
+- Evaluates how effective government investments in public housing and affordability programs are.
