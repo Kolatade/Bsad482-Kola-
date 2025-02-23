@@ -1,4 +1,4 @@
-# Housing Affordability in New Glasgow, Nova Scotia
+# Affordable Housing for Seniors in Nova Scotia
 *A Data-Driven Analysis*
 
 *By: Kolawole Amos Oguntade*
