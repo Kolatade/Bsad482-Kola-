@@ -1,14 +1,20 @@
-# Housing Affordability Crisis in New Glasgow, Nova Scotia
+# Affordable Housing for Seniors in Nova Scotia
 *A Data-Driven Analysis*
+
 # Problem Context
-Housing affordability has emerged as a critical issue in New Glasgow, Nova Scotia, reflecting broader national and global trends. The rising cost of housing, combined with relatively slow wage growth, has placed significant financial strain on many residents. As a small urban center in Nova Scotia, New Glasgow faces unique challenges, including a limited housing supply, an aging population, and economic fluctuations affecting affordability. Addressing this crisis aligns with the United Nations Sustainable Development Goal (SDG) 11: Sustainable Cities and Communities, which advocates for safe, affordable, and sustainable housing solutions.
+Senior housing affordability in Nova Scotia is a growing concern due to an aging population, rising rental costs, and limited public housing availability. Many seniors rely on fixed incomes, making it difficult to secure affordable housing. Long wait times and regional disparities further exacerbate the issue. Government programs play a role, but supply-demand gaps highlight the need for policy improvements.
+This study aligns with SDG 11: Sustainable Cities and Communities, advocating for inclusive and affordable housing solutions for seniors.
+
 # Significance of the study
-The housing affordability crisis in New Glasgow has far-reaching implications. Many low and middle-income households struggle to afford housing, leading to increased financial stress and reduced spending on essential needs such as healthcare and education. Additionally, housing shortages contribute to homelessness and displacement, further exacerbating social inequalities. The crisis also impacts the local economy by making it difficult for businesses to attract and retain workers due to high living costs. Data-driven insights are crucial in guiding policymakers and stakeholders to develop sustainable solutions that address these challenges.
+Understanding senior housing affordability in Nova Scotia is crucial for addressing housing insecurity among the elderly. Limited income sources, rising costs, and inadequate public housing contribute to financial strain for seniors. This study provides data-driven insights to help policymakers and stakeholders improve housing policies, enhance funding allocations, and ensure sustainable housing solutions for aging populations.
+
+
 # Research Objective
 This study aims to 
-1. Analyze housing affordability trends in New Glasgow by examining property prices, rental costs, and vacancy rates.
-2. Assess housing rental affordability trends based on property prices and municipal fiscal conditions.
-3. Evaluate the effectiveness of government interventions in the housing market, including investments in public housing and affordability programs.
+1. Analyze the availability of senior public housing in Nova Scotia, examining the number of units, locations, and demand trends.
+2. Assess the affordability of senior housing by evaluating rental costs in public housing compared to market rates.
+3. Evaluate the effectiveness of government housing programs in addressing affordability challenges for seniors.
+
 
 Key performance indicators (KPIs) include 
 1. Property Price Trends
