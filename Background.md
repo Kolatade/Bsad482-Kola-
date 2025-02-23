@@ -11,11 +11,11 @@ This study aims to
 3. Evaluate the impact of government housing programs by analyzing municipal fiscal data and affordability initiatives.
 
 Key performance indicators (KPIs) include 
-1. Price-to-Income Ratio
+1. Property price
 2. Rent-to-Income Ratio
 3. Vacancy Rate
 4. Housing Supply Growth Rate
-5. Homeownership Rate
+5. Rental affordability
    
 The findings will be presented through exploratory data analysis (EDA), predictive modeling, and data visualization techniques.
 
