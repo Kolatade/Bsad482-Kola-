@@ -21,3 +21,6 @@ To assess housing affordability in New Glasgow, the following five key performan
 - Measures the adequacy of senior housing, including accessibility features.
 5. Government Housing Support Impact
 - Evaluates the effectiveness of public housing programs and affordability initiatives.
+
+ ![Number of units](figure1.png)
+  
