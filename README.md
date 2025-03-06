@@ -38,5 +38,5 @@ To assess housing affordability in Nova scotia, the following five key performan
 ![Number of units](firgure4.png)
 4. Affordability Index (Housing Costs vs. Income Levels) : A bar chart highlighting the top 15 communities with the most affordable housing units.
 
-![Number of units](firgure5.png)
+![Number of units](figure5.png)
 5. Heating & Utility Support in Public Housing : A comparison of heating types (Oil vs. Electric) in public housing units, showing the number of units relying on each.
