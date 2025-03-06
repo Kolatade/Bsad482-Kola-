@@ -10,7 +10,7 @@ This data-driven study will analyze public housing availability, affordability t
 [For a deeper understanding, Read detailed Background](Background.md)
 
 # Key Performance Indicators (KPIs)
-To assess housing affordability in New Glasgow, the following five key performance indicators (KPIs) will be analyzed:
+To assess housing affordability in Nova scotia, the following five key performance indicators (KPIs) will be analyzed:
 1.	Public Senior Housing Availability
 - Number of available public housing units for seniors across Nova Scotia.
 2.	Waitlist & Vacancy Rate
