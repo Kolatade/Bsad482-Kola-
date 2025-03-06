@@ -26,17 +26,17 @@ To assess housing affordability in Nova scotia, the following five key performan
 5. Heating & Utility Support in Public Housing
 - The distribution of heating types and access to public water and sewer services in public housing units.
 
-![Number of units](figure2.png)
+![Number of units](IMG/figure2.png)
 1. Senior Housing Availability by Municipality : A bar chart showing the total number of public housing units for seniors across municipalities.
   
-![Number of units](figure1.png)
+![Number of units](IMG/figure1.png)
 2. Public Housing Units vs. Demand : A chart displaying the top 15 communities with the most public housing units for seniors.
 
-![Number of units](figure3.png)
+![Number of units](IMG/figure3.png)
 3. Municipal Spending on Housing & Affordability : Visualization of the total expenses by municipalities on housing and affordability programs.
 
-![Number of units](firgure4.png)
+![Number of units](IMG/firgure4.png)
 4. Affordability Index (Housing Costs vs. Income Levels) : A bar chart highlighting the top 15 communities with the most affordable housing units.
 
-![Number of units](figure5.png)
+![Number of units](IMG/figure5.png)
 5. Heating & Utility Support in Public Housing : A comparison of heating types (Oil vs. Electric) in public housing units, showing the number of units relying on each.
