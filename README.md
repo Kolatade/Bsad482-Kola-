@@ -31,4 +31,7 @@ To assess housing affordability in Nova scotia, the following five key performan
   
 ![Number of units](figure1.png)
 2. Public Housing Units vs. Demand : A chart displaying the top 15 communities with the most public housing units for seniors.
+
+![Number of units](figure3.png)
+3. Municipal Spending on Housing & Affordability : Visualization of the total expenses by municipalities on housing and affordability programs.
   
