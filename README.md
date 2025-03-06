@@ -34,4 +34,7 @@ To assess housing affordability in Nova scotia, the following five key performan
 
 ![Number of units](figure3.png)
 3. Municipal Spending on Housing & Affordability : Visualization of the total expenses by municipalities on housing and affordability programs.
+
+![Number of units](figure4.png)
+4. Affordability Index (Housing Costs vs. Income Levels) : A bar chart highlighting the top 15 communities with the most affordable housing units.
   
