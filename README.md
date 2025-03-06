@@ -11,8 +11,8 @@ This data-driven study will analyze public housing availability, affordability t
 
 # Key Performance Indicators (KPIs)
 To assess housing affordability in Nova scotia, the following five key performance indicators (KPIs) will be analyzed:
-1.	Public Senior Housing Availability
-- Number of available public housing units for seniors across Nova Scotia.
+1.	Senior Housing Availability by Municipality
+- Total number of senior housing units in each municipality.
 
 2. Public Housing Units vs. Demand
 - The number of senior public housing units to the total senior population in each municipality.
