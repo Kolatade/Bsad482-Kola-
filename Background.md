@@ -17,11 +17,11 @@ This study aims to
 
 
 Key performance indicators (KPIs) include 
-1.	Public Senior Housing Availability
-2.	Waitlist & Vacancy Rate
-3.	Rent Affordability Index
-4.	Government Housing Support Impact
-5.	Housing Quality & Accessibility Index
+1.	Senior Housing Availability by Municipality
+2. Public Housing Units vs. Demand
+3. Municipal Spending on Housing & Affordability Initiatives
+4. Affordability Index (Housing Costs vs. Income Levels)
+5. Heating & Utility Support in Public Housing
 
 
 The findings will be presented through exploratory data analysis (EDA), predictive modeling, and data visualization techniques.
