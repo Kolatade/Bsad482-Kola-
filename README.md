@@ -41,3 +41,25 @@ To assess housing affordability in Nova scotia, the following five key performan
 
 ![Number of units](IMG/figure5.png)
 5. Heating & Utility Support in Public Housing : A comparison of heating types (Oil vs. Electric) in public housing units, showing the number of units relying on each.
+
+# Causal Inference Summary
+This analysis explored how residential property taxes, commercial property taxes, and municipal attributes influence the number of residential units available—specifically within the context of housing affordability for seniors in Nova Scotia.
+
+1. Quantitative strength of relationships (Heatmap)
+
+![correlation matrix](IMG/fig7.png)
+
+We observe a moderate negative correlation (-0.41) between residential property tax (Res_Property_Tax) and the number of residential units (Res_Units). This suggests that as residential property taxes increase, the availability of residential units—including public and affordable housing—may decrease. This aligns with the expectation that higher property taxes could deter investment in new housing developments or strain affordability, particularly for seniors on fixed incomes.
+
+2. Theoretical flow of causality (Causal Graph)
+
+![causal diagram](IMG/fig6.png)
+
+This diagram further reinforces this relationship by showing Community and Municipality as upstream factors influencing Res_Property_Tax, which in turn directly affects Res_Units. This suggests that structural and regional differences in policy—especially related to taxation—can shape housing availability outcomes.
+
+Interestingly, commercial property tax (Com_Property_Tax) showed a strong positive correlation (0.90) with Res_Property_Tax, but only a very weak negative correlation (-0.04) with Res_Units. This indicates that while the two tax categories are closely linked (likely reflecting general tax policy), commercial property taxes do not significantly impact senior housing availability.
+
+# Conclusion
+
+These findings suggest a potential causal pathway from municipal structure and community tax policy to the availability of residential housing units for seniors. Importantly, the negative relationship between residential property taxes and housing availability highlights the need for targeted tax relief policies or housing subsidies to ensure affordability, particularly for vulnerable senior populations. Future work should further investigate how these relationships evolve across more municipalities with broader data coverage.
+
