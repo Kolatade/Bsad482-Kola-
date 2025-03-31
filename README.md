@@ -59,10 +59,22 @@ We observe a moderate negative correlation (-0.41) between residential property 
 2. Theoretical flow of causality (Causal Graph)
 
 ![causal diagram](IMG/fig6.png)
-
 This diagram further reinforces this relationship by showing Community and Municipality as upstream factors influencing Res_Property_Tax, which in turn directly affects Res_Units. This suggests that structural and regional differences in policy—especially related to taxation—can shape housing availability outcomes.
 
 Interestingly, commercial property tax (Com_Property_Tax) showed a strong positive correlation (0.90) with Res_Property_Tax, but only a very weak negative correlation (-0.04) with Res_Units. This indicates that while the two tax categories are closely linked (likely reflecting general tax policy), commercial property taxes do not significantly impact senior housing availability.
+
+# Refute Analysis Interpretation
+This means we are testing the robustness of the original causal effect estimate by adding a random variable that could act like a confounder (i.e., a variable that influences both the cause and the effect).
+
+Estimated Effect: 2.5655112856348694e-07
+This is the original estimate of the causal effect before adding the random common cause. It represents a very small positive effect (on the order of ~0.00000026).
+
+New Effect: 2.4537120902572934e-07
+After adding the random common cause, the effect size changed slightly—it decreased a bit to ~0.00000025. This change is very minor, suggesting the estimate is stable.
+
+p-value: 0.54
+A p-value of 0.54 is quite high, meaning there is no statistically significant difference between the original effect and the new effect after adding the random variable. In other words, the change is likely due to chance.
+
 
 # Conclusion
 
